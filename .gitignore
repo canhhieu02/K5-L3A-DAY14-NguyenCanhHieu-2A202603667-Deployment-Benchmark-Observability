@@ -34,3 +34,10 @@ Thumbs.db
 # ── Docker volumes (local dev) ─────────────────────��──────
 data/
 volumes/
+
+# ── Ghi chú cá nhân (không nộp) ──────────────────────────
+/HUONG_DAN_CHI_TIET.md
+/BAO_CAO_CHI_TIET.md
+
+# ── Cài đặt Claude Code trên máy (không nộp) ─────────────
+.claude/
